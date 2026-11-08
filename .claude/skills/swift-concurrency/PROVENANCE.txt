@@ -2,5 +2,5 @@ source: https://github.com/AvdLee/Swift-Concurrency-Agent-Skill
 commit: 3b1580d8398e0b5408b3bf0bada0e941a1cfc642
 installed: 2026-11-08
 license: MIT
-reviewed: sin hooks/MCP/red; scripts sólo invocan xcrun xctrace
-update: re-clonar, revisar el diff y reemplazar esta carpeta
+reviewed: sin hooks/MCP/red; scripts solo invocan xcrun xctrace
+update: re-clonar, revisar el diff y reemplazar esta carpeta (bytes LF del upstream)

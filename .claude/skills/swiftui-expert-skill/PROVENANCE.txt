@@ -2,5 +2,5 @@ source: https://github.com/AvdLee/SwiftUI-Agent-Skill
 commit: 62bd760f005093d1e2e4de5db156e456a5f96400
 installed: 2026-11-08
 license: MIT
-reviewed: sin hooks/MCP/red; scripts sólo invocan xcrun xctrace
-update: re-clonar, revisar el diff y reemplazar esta carpeta
+reviewed: sin hooks/MCP/red; scripts solo invocan xcrun xctrace
+update: re-clonar, revisar el diff y reemplazar esta carpeta (bytes LF del upstream)
